@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fc1a4fc586802143854032ef411d847, type: 3}
+  m_Name: charm 4
+  m_EditorClassIdentifier: 
+  item_type: 3
+  equipment_type: 2
+  id: 0
+  increases_stats_by_times: 1.35
+  increases_attack_on_number: 0
+  increases_hp_by_number: 0
+  increases_digging_by_number: 0
+  item_name: charm 4
+  item_prefab: {fileID: 8152538843743697762, guid: a0fb6b0462ecdde48bee7085b8dc6f5f, type: 3}
+  icon: {fileID: 21300000, guid: c1eee7c2700697e4db55f54694b928d8, type: 3}

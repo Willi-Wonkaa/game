@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fc1a4fc586802143854032ef411d847, type: 3}
+  m_Name: obsidian ore
+  m_EditorClassIdentifier: 
+  item_type: 0
+  equipment_type: 0
+  id: 0
+  increases_stats_by_times: 1
+  increases_attack_on_number: 0
+  increases_hp_by_number: 0
+  increases_digging_by_number: 0
+  item_name: obsidian ore
+  item_prefab: {fileID: 8152538843743697762, guid: 0127d9bb98a8e32458ab037a7d6401ac, type: 3}
+  icon: {fileID: 21300000, guid: 6443450d1a25ebf40ab89cc2399481b2, type: 3}

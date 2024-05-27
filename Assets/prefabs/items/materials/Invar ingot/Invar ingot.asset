@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fc1a4fc586802143854032ef411d847, type: 3}
+  m_Name: Invar ingot
+  m_EditorClassIdentifier: 
+  item_type: 0
+  equipment_type: 0
+  id: 0
+  damage: 1
+  item_name: Invar ingot
+  item_prefab: {fileID: 8152538843743697762, guid: 7195bffd96ef2aa4dbdd2e1ee3e1ff95, type: 3}
+  icon: {fileID: 21300000, guid: a62d8b013583584429e9bf8e9a170ec2, type: 3}

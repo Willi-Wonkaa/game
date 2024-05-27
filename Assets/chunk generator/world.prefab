@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &897332468157929739
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1694001949639585686}
+  - component: {fileID: 3885992346645403471}
+  m_Layer: 0
+  m_Name: world
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1694001949639585686
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 897332468157929739}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3885992346645403471
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 897332468157929739}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d974e17217514247b63c38fc40183af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  city: {fileID: 3443504221346793544, guid: a46b4eea99fc1814685069b0836ef649, type: 3}
+  boss_chunk: {fileID: 5650307620149980395, guid: b2d80e6930de85d4d84bec00127fe6c6, type: 3}
+  save_zone: {fileID: 5650307620149980395, guid: b2d80e6930de85d4d84bec00127fe6c6, type: 3}
+  first_circle_parts:
+  - {fileID: 8640248011462471372, guid: 70e13a853d49a7a418ecf2e5fb2b34b0, type: 3}
+  - {fileID: 3494541440297593451, guid: cee9bc1b257e1cb4e97157dee7f3d139, type: 3}
+  - {fileID: 8640248011462471372, guid: d4826887834cc23489f2ab8600e979e9, type: 3}
+  - {fileID: 8640248011462471372, guid: bf09203d7e447b94093bc2af14839631, type: 3}
+  - {fileID: 8640248011462471372, guid: bf09203d7e447b94093bc2af14839631, type: 3}
+  relics:
+  - {fileID: 8152538843743697762, guid: c9fb74f781ce9aa47a17afd7ddb8429a, type: 3}
+  - {fileID: 8152538843743697762, guid: 1dec595197f6b604f91cc89c20eb3564, type: 3}
+  - {fileID: 8152538843743697762, guid: c312197496235bf43886f1dc75b3050a, type: 3}
+  - {fileID: 8152538843743697762, guid: 4ae361f8807b3a841aca319f32c322cf, type: 3}
+  - {fileID: 8152538843743697762, guid: 7978da9c0e2e54042917a8efd7d53e11, type: 3}
+  - {fileID: 8152538843743697762, guid: 8e47fcd6ba94a614aa0c60397198140f, type: 3}
+  - {fileID: 8152538843743697762, guid: d3249e142d9795342873b487f3014209, type: 3}
+  - {fileID: 8152538843743697762, guid: bbb946a756f6efe48957d9474a40fb36, type: 3}
+  - {fileID: 8152538843743697762, guid: 580c74ab8f85b1d488a7967475f6f552, type: 3}
+  - {fileID: 8152538843743697762, guid: 2b5f9156fb44399488b1703a3af6dbbe, type: 3}
